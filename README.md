@@ -1,10 +1,10 @@
-# Omniyat Concierge Admin Portal
+# Omniyat Asset Management Admin Portal
 
 A comprehensive concierge-level admin portal for managing luxury residential properties, services, and resident requests across all Omniyat properties. Built with Next.js 14, TypeScript, and shadcn/ui components.
 
 ## 🏗️ Project Overview
 
-The Omniyat Concierge Admin Portal is designed for **concierge-level management** of all properties holistically, specifically tailored for **High Net Worth Individuals (HNWI)** with complimentary services. It provides centralized control over multiple properties while allowing granular filtering and service configuration management.
+The Omniyat Asset Management Admin Portal is designed for **concierge-level management** of all properties holistically, specifically tailored for **High Net Worth Individuals (HNWI)** with complimentary services. It provides centralized control over multiple properties while allowing granular filtering and service configuration management.
 
 ## ✨ Key Features
 
@@ -216,7 +216,7 @@ The admin portal is fully responsive and works seamlessly on:
 
 ## 🚧 Development Roadmap
 
-### Phase 1: Core Concierge Dashboard ✅
+### Phase 1: Core Asset Management Dashboard ✅
 - [x] Holistic dashboard layout
 - [x] Property filtering system
 - [x] Cross-property statistics

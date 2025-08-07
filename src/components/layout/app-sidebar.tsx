@@ -386,7 +386,7 @@ const secondaryItems = [
 
 const data = {
   user: {
-    name: "Concierge Admin",
+    name: "Asset Management Admin",
     email: "admin@omniyat.com",
     avatar: "/avatars/admin.jpg",
   },
@@ -406,7 +406,7 @@ export function AppSidebar({ userRole = "concierge_admin", ...props }: AppSideba
             >
               <a href="/dashboard">
                 <IconBuilding className="!size-5" />
-                <span className="text-base font-semibold">Omniyat Concierge</span>
+                <span className="text-base font-semibold">Omniyat Asset Management</span>
               </a>
             </SidebarMenuButton>
           </SidebarMenuItem>

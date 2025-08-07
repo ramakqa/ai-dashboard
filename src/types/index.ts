@@ -10,7 +10,7 @@ export interface User {
 }
 
 export type UserRole = 
-  | 'concierge_admin'  // Main concierge admin managing all properties
+  | 'concierge_admin'  // Main asset management admin managing all properties
   | 'property_manager'
   | 'maintenance_team'
   | 'concierge_staff'

@@ -108,7 +108,7 @@ export default function DashboardPage() {
               {/* Dashboard Header */}
               <div className="px-4 lg:px-6">
                 <div className="mb-6">
-                  <h1 className="text-3xl font-bold tracking-tight">Concierge Dashboard</h1>
+                  <h1 className="text-3xl font-bold tracking-tight">Asset Management Dashboard</h1>
                   <p className="text-muted-foreground">
                     Holistic management of all Omniyat properties and services
                   </p>
